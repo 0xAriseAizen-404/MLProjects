@@ -1,5 +1,5 @@
 name: 
-  /home/mrx/Documents/Code/Machine_Learning_Universe/MLProjects/Algerian_forest_fires_dataset/env
+  env
 channels:
   - defaults
 dependencies:
